@@ -1,6 +1,7 @@
 body {
-  background-image: url(stars.gif);
+  	background-image: url(stars.gif);
 	color: white;
+	font-family: 'Courier New', monospace;
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 a:link {
 	color: GhostWhite;
 	text-align: center;
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-family: Consolas, "Courier New", monospace;
 	background-color: #000000;
 	font-size: xx-large;
 }
